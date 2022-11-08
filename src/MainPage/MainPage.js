@@ -11,8 +11,8 @@ export default function MainPage() {
 
   return (
     <Box>
-      <h1>Znajdź prawnika</h1>
-      <h2>Najlepsi prawnicy xd</h2>
+      <h1>Znajdź </h1>
+      <h2>Najlepsi </h2>
       <FormControl fullWidth>
         <InputLabel id="demo-simple-select-label">Age</InputLabel>
         <Select
